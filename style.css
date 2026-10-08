@@ -127,7 +127,7 @@ body {
 }
 .sidebar { padding: 12px; display: flex; flex-direction: column; gap: 12px; background: linear-gradient(180deg, #7ba2e7 0%, #6375d6 100%); }
 
-.panel { border-radius: 6px 6px -6px -6px; overflow: hidden; background: var(--luna-panel); }
+.panel { border-radius: 6px 6px 6px 6px; overflow: hidden; background: var(--luna-panel); }
 .panel h3 {
   margin: 0;
   padding: 5px 10px;
